@@ -33,7 +33,6 @@ User-Service-CRUD is a production-ready microservice that provides complete user
 
 - JDK 17 or higher
 - Maven 3.9+
-- Git (optional)
 
 ### Installation & Running
 
